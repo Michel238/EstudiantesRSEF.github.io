@@ -95,7 +95,7 @@ permalink: /DeleOviedo/Nanoparadise2025/
 <!-- PROGRAMA -->
       <div class="section">
         <h4 id="programa">Programme</h4>
-	<p style="text-align: justify;">The event will give you the opportunity to attend talks by our experts across diverse fields of nanoscience. Afterward, you will have the chance to visit their facilities and experience their groundbreaking work firsthand.And if you still have questions, the final day will feature a roundtable session where you can ask our researchers anything you would like and seek their expert opinions on any topic you wish to explore</p>
+	<p style="text-align: justify;">The event will give you the opportunity to attend talks by our experts across diverse fields of nanoscience. Afterward, you will have the chance to visit their facilities and experience their work firsthand.And if you still have questions, the final day will feature a roundtable session where you can ask our researchers anything you would like and seek their expert opinions on any topic you wish to explore</p>
     <p style="text-align: justify;">We will also host a poster session where you can share your own research with fellow attendees. Who knows? You might just find your future lab partner here!</p>
       </div> 
 
